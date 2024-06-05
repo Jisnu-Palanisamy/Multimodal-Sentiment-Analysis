@@ -1,0 +1,17 @@
+streamlit
+textblob
+transformers
+numpy
+streamlit-shap
+openai
+python-dotenv
+shap
+matplotlib
+ipython
+transformers[torch]
+transformers[tf-cpu]
+transformers[flax]
+deepface
+moviepy
+opencv-python-headless
+ffmpeg-python
